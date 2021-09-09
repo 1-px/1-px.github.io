@@ -17,12 +17,12 @@ minima:
   # generate social links in footer
   social_links:
     twitter: jekyllrb
-    github:  jekyll
+    # github:  jekyll
     # devto: jekyll
     # dribbble: jekyll
     # facebook: jekyll
     # flickr:   jekyll
-    # instagram: jekyll
+     instagram: jekyll
     # linkedin: jekyll
     # pinterest: jekyll
     # youtube: jekyll
